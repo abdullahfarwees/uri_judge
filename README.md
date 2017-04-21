@@ -1,3 +1,3 @@
-This my URI JUDGE repo !
+URIjudge is a online programming practices as well as competition platform. This repo has my solution to various problems from URIjudge.
 
-Solved problems.
+link https://www.hackerearth.com/@afarwees
